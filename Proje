@@ -26,18 +26,58 @@
         <tr>
             <th>Bayrak</th>
             <th>Ülke</th>
+            <th>Nüfus</th>
             <th>Bilgi</th>
         </tr>
         <tr>
             <td><img src="https://flagcdn.com/w320/tr.png" alt="Türkiye Bayrağı"></td>
             <td>Türkiye</td>
+            <td>85 milyon</td>
             <td><a href="https://tr.wikipedia.org/wiki/T%C3%BCrkiye" target="_blank">Daha Fazla Bilgi</a></td>
         </tr>
         <tr>
             <td><img src="https://flagcdn.com/w320/us.png" alt="ABD Bayrağı"></td>
             <td>Amerika Birleşik Devletleri</td>
+            <td>331 milyon</td>
             <td><a href="https://tr.wikipedia.org/wiki/Amerika_Birleşik_Devletleri" target="_blank">Daha Fazla Bilgi</a></td>
+        </tr>
+        <tr>
+            <td><img src="https://flagcdn.com/w320/in.png" alt="Hindistan Bayrağı"></td>
+            <td>Hindistan</td>
+            <td>1.4 milyar</td>
+            <td><a href="https://tr.wikipedia.org/wiki/Hindistan" target="_blank">Daha Fazla Bilgi</a></td>
+        </tr>
+        <tr>
+            <td><img src="https://flagcdn.com/w320/gb.png" alt="İngiltere Bayrağı"></td>
+            <td>İngiltere</td>
+            <td>67 milyon</td>
+            <td><a href="https://tr.wikipedia.org/wiki/%C4%B0ngiltere" target="_blank">Daha Fazla Bilgi</a></td>
+        </tr>
+        <tr>
+            <td><img src="https://flagcdn.com/w320/de.png" alt="Almanya Bayrağı"></td>
+            <td>Almanya</td>
+            <td>83 milyon</td>
+            <td><a href="https://tr.wikipedia.org/wiki/Almanya" target="_blank">Daha Fazla Bilgi</a></td>
+        </tr>
+        <tr>
+            <td><img src="https://flagcdn.com/w320/cn.png" alt="Çin Bayrağı"></td>
+            <td>Çin</td>
+            <td>1.4 milyar</td>
+            <td><a href="https://tr.wikipedia.org/wiki/%C3%87in" target="_blank">Daha Fazla Bilgi</a></td>
+        </tr>
+        <tr>
+            <td><img src="https://flagcdn.com/w320/jp.png" alt="Japonya Bayrağı"></td>
+            <td>Japonya</td>
+            <td>126 milyon</td>
+            <td><a href="https://tr.wikipedia.org/wiki/Japonya" target="_blank">Daha Fazla Bilgi</a></td>
+        </tr>
+        <tr>
+            <td><img src="https://flagcdn.com/w320/ru.png" alt="Rusya Bayrağı"></td>
+            <td>Rusya</td>
+            <td>143 milyon</td>
+            <td><a href="https://tr.wikipedia.org/wiki/Rusya" target="_blank">Daha Fazla Bilgi</a></td>
         </tr>
     </table>
 </body>
 </html>
+
