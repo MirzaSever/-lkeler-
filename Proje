@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ülkeler Tablosu</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        img {
+            width: 50px;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <h2>Ülkeler ve Bilgileri</h2>
+    <table>
+        <tr>
+            <th>Bayrak</th>
+            <th>Ülke</th>
+            <th>Bilgi</th>
+        </tr>
+        <tr>
+            <td><img src="https://flagcdn.com/w320/tr.png" alt="Türkiye Bayrağı"></td>
+            <td>Türkiye</td>
+            <td><a href="https://tr.wikipedia.org/wiki/T%C3%BCrkiye" target="_blank">Daha Fazla Bilgi</a></td>
+        </tr>
+        <tr>
+            <td><img src="https://flagcdn.com/w320/us.png" alt="ABD Bayrağı"></td>
+            <td>Amerika Birleşik Devletleri</td>
+            <td><a href="https://tr.wikipedia.org/wiki/Amerika_Birleşik_Devletleri" target="_blank">Daha Fazla Bilgi</a></td>
+        </tr>
+    </table>
+</body>
+</html>
